@@ -1,3 +1,5 @@
+//cpp solution 
+//Runtime = 0ms; beats 100%
 class Solution {
 public:
     bool isValid(string s) {
